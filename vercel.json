@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/sot-academy-a7/", "destination": "/index.html" },
+    { "source": "/sot-academy-a7", "destination": "/index.html" }
+  ]
+}
